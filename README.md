@@ -1,8 +1,8 @@
 # AdventOfCode2022
 
-From https://adventofcode.com/2022 :
+From https://adventofcode.com/2023/about :
 
-> Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
+> Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other.
 
 This repo contains my personal implementation of the various puzzles. It's a pure fun project.
 
