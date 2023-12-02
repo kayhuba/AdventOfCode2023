@@ -1,6 +1,6 @@
 console.log("Day 01, Puzzle 01!")
 
-import linereader from "line-reader";
+import lineReader from "line-reader";
 
-linereader.eachLine("./input/input.txt", (line, last) => {
+lineReader.eachLine("./input/input.txt", (line, last) => {
 });
